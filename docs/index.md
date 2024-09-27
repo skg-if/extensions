@@ -1,11 +1,5 @@
 # SKG-IF extensions
 
-
-## List of supported extensions
-TBA
-
-
-## Rationale
 **In a nutshell:** Extensions primarily act as plug-ins for extra properties that enhance the core entities defined by the SKG-IF, for extra entities capturing community concepts, and for relationships between properties.
 
 Introducing extensions to the SKG-IF serves as a strategic step towards addressing the evolving and diverse needs of scientific communities and projects.
@@ -59,3 +53,6 @@ The documentation of an SKG-IF extension is structured in three parts:
 - **Extension-specific entities:** brand-new entities that reflect semantics and structure different from the core entities, i.e. no core entity can be seen as a super-entity of community entities;
 - **Core entity extensions:** properties that extend the set of properties of core entities to address the needs of the specific case statement;
 - **Extension-specific relationships:** relationships that link entities (either core or extension-specific) reflecting the semantics of the case statement.
+
+## List of supported extensions
+TBA
