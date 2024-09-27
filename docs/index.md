@@ -39,7 +39,8 @@ These are the engagement rules that proponents of a new SKG-IF extension should 
 - **Non-Interference:** Extensions should not interfere with or disrupt the entities already defined within the SKG-IF. They should not serve as shortcuts for sharing information that should be placed elsewhere within the framework. By adhering to this principle, the integrity and coherence of the SKG-IF are preserved.
 
 ## Applying for an extension
-In order to apply for an SKG-IF extensions, proponents should head to the [SKG-IF extensions repository](https://skg-if.github.io/extensions/) on GitHub, open a **new issue** selecting the proper template and follow the prompted instructions.
+In order to apply for an SKG-IF extensions, proponents should head to the [SKG-IF extensions repository](https://skg-if.github.io/extensions/) on GitHub, and open a **new issue** selecting the proper template and follow the prompted instructions.
+For the sake of simplicity, the following [**link**](https://github.com/skg-if/extensions/issues/new?assignees=&labels=new+extension&projects=&template=new-skg-if-extension.md&title=) can be used.
 All the fields between angle brackets included in the aforementioned template must be substituted with the appropriate text. All the fields are mandatory.
 
 Requests will be evaluated by the members of the RDA WG on the SKG-IF. 
