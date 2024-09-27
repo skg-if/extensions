@@ -1,4 +1,4 @@
-# Supported extensions
+# SKG-IF extensions
 
 
 ## List of supported extensions
