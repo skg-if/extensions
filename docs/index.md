@@ -32,6 +32,7 @@ These are the engagement rules that proponents of a new SKG-IF extension should 
 - **Shared Interest/Need:** Extensions should address a collective interest or requirement identified within projects, communities, or domains rather than catering to individual or isolated needs. This principle ensures that extensions serve a broader purpose and contribute to the overall advancement of scientific knowledge representation.
 - **Non-Interference:** Extensions should not interfere with or disrupt the entities already defined within the SKG-IF. They should not serve as shortcuts for sharing information that should be placed elsewhere within the framework. By adhering to this principle, the integrity and coherence of the SKG-IF are preserved.
 
+
 ## Applying for an extension
 In order to apply for an SKG-IF extensions, proponents should head to the [SKG-IF extensions repository](https://github.com/skg-if/extensions) on GitHub, and open a **new issue** selecting the proper template and follow the prompted instructions.
 For the sake of simplicity, the following [**link**](https://github.com/skg-if/extensions/issues/new?assignees=&labels=new+extension&projects=&template=new-skg-if-extension.md&title=) can be used.
@@ -53,6 +54,7 @@ The documentation of an SKG-IF extension is structured in three parts:
 - **Extension-specific entities:** brand-new entities that reflect semantics and structure different from the core entities, i.e. no core entity can be seen as a super-entity of community entities;
 - **Core entity extensions:** properties that extend the set of properties of core entities to address the needs of the specific case statement;
 - **Extension-specific relationships:** relationships that link entities (either core or extension-specific) reflecting the semantics of the case statement.
+
 
 ## List of supported extensions
 TBA
