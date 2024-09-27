@@ -36,12 +36,12 @@ These are the engagement rules that proponents of a new SKG-IF extension should 
 ## Applying for an extension
 In order to apply for an SKG-IF extensions, proponents should head to the [SKG-IF extensions repository](https://github.com/skg-if/extensions) on GitHub, and open a **new issue** selecting the proper template and follow the prompted instructions.
 For the sake of simplicity, the following [**link**](https://github.com/skg-if/extensions/issues/new?assignees=&labels=new+extension&projects=&template=new-skg-if-extension.md&title=) can be used.
+
 Please note that:
 - All the fields between angle brackets included in the aforementioned template must be substituted with the appropriate text. 
 - All the fields are mandatory.
-
-Requests will be evaluated by the members of the RDA WG on the SKG-IF. 
-It is possible for a new proposal to have a few iterative responses before being given a final response on whether or not the proposed ontology is endorsed. 
+- Requests will be evaluated by the members of the RDA WG on the SKG-IF. 
+- It is possible for a new proposal to have a few iterative responses before being given a final response on whether or not the proposed ontology is endorsed. 
 
 
 ## Documenting an extension
