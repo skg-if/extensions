@@ -9,8 +9,8 @@ assignees: ''
 
 **Name:** <full name of the extension>
 
-**Acronym:** <extension acronym (if any)>
+**Acronym or suggested repo name:** <extension acronym (if any) or suggested repository name>
 
 **Proponent(s):** [<proponent full name>](<GitHub user URL>), ...
 
-<free text description of the extension, where you specify precisely its purpose and scope, the development process adopted, and any other useful information for assessing it>
+**Brief motivation:** <free text description/motivation of the proposed extension, where you specify precisely its purpose and scope, and any other useful information for assessing your expression of interest>
