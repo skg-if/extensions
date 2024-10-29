@@ -34,20 +34,21 @@ These are the engagement rules that proponents of a new SKG-IF extension should 
 
 
 ## Applying for an extension
-In order to apply for an SKG-IF extensions, proponents should head to the [SKG-IF extensions repository](https://github.com/skg-if/extensions) on GitHub, and open a **new issue** selecting the proper template and follow the prompted instructions.
+In order to apply for an SKG-IF extension, proponents should head to the [SKG-IF extensions repository](https://github.com/skg-if/extensions) on GitHub, and open a **new issue** selecting the proper template and follow the prompted instructions.
 For the sake of simplicity, the following [**link**](https://github.com/skg-if/extensions/issues/new?assignees=&labels=new+extension&projects=&template=new-skg-if-extension.md&title=) can be used.
 
 Please note that:
 - All the fields between angle brackets included in the aforementioned template must be substituted with the appropriate text. 
-- All the fields are mandatory.
+- All the fields are mandatory, unless specified otherwise.
 - Requests will be evaluated by the members of the RDA WG on the SKG-IF. 
 - It is possible for a new proposal to have a few iterative responses before being given a final response on whether or not the proposed ontology is endorsed. 
 
+Once the extension is accepted, a new repository will be created and proponets should work on that codebase following the suggested folder structure.
 
 ## Documenting an extension
 Comprehensive online documentation for extensions is essential, stating the targeted SKG-IF version(s), the entities they enrich, any new entities introduced, and a detailed description of properties.
 This documentation ensures clarity, transparency, and consistency in the development and implementation of extensions.
-Extensions are published via the SKG-IF documentation site in the dedicated section “Supported extensions”.
+Once a new extension reaches the expected level of maturity, it will be listed in the section ["Endorsed extensions”](https://skg-if.github.io/extensions/#list-of-supported-extensions) down below.
 
 The documentation of an SKG-IF extension is structured in three parts:
 
@@ -56,5 +57,5 @@ The documentation of an SKG-IF extension is structured in three parts:
 - **Extension-specific relationships:** relationships that link entities (either core or extension-specific) reflecting the semantics of the case statement.
 
 
-## List of supported extensions
+## List of endorsed extensions
 TBA
