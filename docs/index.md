@@ -38,21 +38,21 @@ An SKG-IF extension can cover three distinct aspects about the data model:
 - **Extension-specific relationships:** relationships that link entities (either core or extension-specific) reflecting the semantics of the case statement.
 
 Furthermore, an extension can provide **additional specifications for the APIs**, more specifically:
-- Define a list and the relative behavior of **additional HTTP parameters** to customise the behavior of the API resolver method defined by the SKG-IF;
-- Define **brand-new, additional API methods** with advanced functionalities and custom behaviors.
+- Define a list and the relative behaviour of **additional HTTP parameters** to customise the behaviour of the API resolver method defined by the SKG-IF;
+- Define **brand-new, additional API methods** with advanced functionalities and custom behaviours.
 
 
 ## Applying for an extension
-In order to apply for an SKG-IF extension, proponents should head to the [SKG-IF extensions repository](https://github.com/skg-if/extensions) on GitHub, and open a **new issue** selecting the proper template and follow the prompted instructions.
+In order to apply for an SKG-IF extension, proponents should head to the [SKG-IF extensions repository](https://github.com/skg-if/extensions) on GitHub, and open a **new issue** by selecting the proper template and follow the prompted instructions.
 For the sake of simplicity, the following [**link**](https://github.com/skg-if/extensions/issues/new?assignees=&labels=new+extension&projects=&template=new-skg-if-extension.md&title=) can be used.
 
 Please note that:
 - All the fields between angle brackets included in the aforementioned template must be substituted with the appropriate text. 
-- All the fields are mandatory, unless specified otherwise.
+- All the fields are mandatory unless specified otherwise.
 - Requests will be evaluated by the members of the RDA WG on the SKG-IF. 
 - It is possible for a new proposal to have a few iterative responses before being given a final response on whether or not the proposed ontology is endorsed. 
 
-Once the extension is accepted, a new repository will be created and proponets should work on that codebase following the suggested folder structure.
+Once the extension is accepted, a new repository will be created, and proponents should work on that codebase following the suggested folder structure.
 
 
 ## Documenting an extension
@@ -62,10 +62,9 @@ Once a new extension reaches the expected level of maturity, it will be listed i
 
 
 ## Extension lifecycle
-The lifecycle (i.e., development and maintenance) of an SKG-IF extension falls outside the scope of the RDA WG and the discussion aroudn the core model. 
-Therefore, delivering an extension can be fast paced, as long as it meets the expected degree of clearness and compliance. 
-Once an extension is mature enough and is adopted, part of the covered aspects can be considered and cherry-picked by the WG for inclusion in the SKG-IF core model, 
-if supporting evidence indicates this would be an added value.
+The lifecycle (i.e., development and maintenance) of an SKG-IF extension falls outside the scope of the RDA WG and the discussion around the core model. 
+Therefore, delivering an extension can be fast-paced as long as it meets the expected degree of clearness and compliance. 
+Once an extension is mature enough and has been adopted in the intended contexts, part of the covered aspects can be considered and cherry-picked by the WG for inclusion in the SKG-IF core model.
 
 
 ## List of endorsed extensions
