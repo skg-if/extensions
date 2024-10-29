@@ -37,9 +37,9 @@ An SKG-IF extension can cover three distinct aspects about the data model:
 - **Core entity extensions:** properties that extend the set of properties of core entities to address the needs of the specific case statement;
 - **Extension-specific relationships:** relationships that link entities (either core or extension-specific) reflecting the semantics of the case statement.
 
-Furthermore, an extension can provide additional specifications for the APIs, more specifically:
-- Define a list and the relative behavior of additional HTTP paramentes for the API resolver method;
-- Define further API methods and with advanced functionalities and custom behaviors.
+Furthermore, an extension can provide **additional specifications for the APIs**, more specifically:
+- Define a list and the relative behavior of **additional HTTP parameters** to customise the behavior of the API resolver method defined by the SKG-IF;
+- Define **brand-new, additional API methods** with advanced functionalities and custom behaviors.
 
 
 ## Applying for an extension
