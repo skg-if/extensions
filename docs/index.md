@@ -28,7 +28,7 @@ The primary motivations for developing an SKG-IF extension include:
 ## Participation guidelines
 These are the engagement rules that proponents of a new SKG-IF extension should follow in order to be eligible:
 - **Shared Interest/Need:** Extensions should address a collective interest or requirement identified within projects, communities, or domains rather than catering to individual or isolated needs. This principle ensures that extensions serve a broader purpose and contribute to the overall advancement of scientific knowledge representation.
-- **Non-Interference:** Extensions should not interfere with or disrupt the entities already defined within the SKG-IF. They should not serve as shortcuts for sharing information that should be placed elsewhere within the framework. By adhering to this principle, the integrity and coherence of the SKG-IF are preserved.
+- **Non-Interference:** Extensions should not interfere with or disrupt the entities and APIs already defined within the SKG-IF or other endorsed extensions. They should not serve as shortcuts for sharing information that should be placed elsewhere within the framework. By adhering to this principle, the integrity and coherence of the SKG-IF are preserved.
 
 
 ## Scope of an extension
@@ -38,7 +38,7 @@ An SKG-IF extension can cover three distinct aspects about the data model:
 - **Extension-specific relationships:** relationships that link entities (either core or extension-specific) reflecting the semantics of the case statement.
 
 Furthermore, an extension can provide **additional specifications for the APIs**, more specifically:
-- Define a list and the relative behaviour of **additional HTTP parameters** to customise the behaviour of the API resolver method defined by the SKG-IF;
+- Define a list and the relative behaviour of **additional HTTP parameters** to customise the behaviour of the [core API resolver methods](https://skg-if.github.io/api/) defined by the SKG-IF;
 - Define **brand-new, additional API methods** with advanced functionalities and custom behaviours.
 
 
@@ -59,6 +59,8 @@ Once the extension is accepted, a new repository will be created, and proponents
 Comprehensive online documentation for extensions is essential, stating the targeted SKG-IF version(s), the entities they enrich, any new entities introduced, and a detailed description of properties.
 This documentation ensures clarity, transparency, and consistency in the development and implementation of extensions.
 Once a new extension reaches the expected level of maturity, it will be listed in the section ["Endorsed extensions”](https://skg-if.github.io/extensions/#list-of-supported-extensions) down below.
+
+**Important:** in order to prevent clashing with other extensions, an extension should specify an agreed namespace to be used as a prefix for introduced entities, properties, relations and API specifications (i.e., methods and HTTP parameters).
 
 
 ## Extension lifecycle
