@@ -1,3 +1,9 @@
+---
+title: Extensions
+layout: default
+nav_order: 5
+---
+
 # SKG-IF extensions
 
 **<u>In a nutshell</u>: Extensions primarily act as plug-ins for extra properties that enhance the core entities defined by the SKG-IF, for extra entities capturing community concepts, and for relationships between properties.**
