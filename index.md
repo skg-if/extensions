@@ -9,26 +9,10 @@ nav_order: 5
 **<u>In a nutshell</u>: Extensions primarily act as plug-ins for extra properties that enhance the core entities defined by the SKG-IF, for extra entities capturing community concepts, and for relationships between properties.**
 
 Introducing extensions to the SKG-IF serves as a strategic step towards addressing the evolving and diverse needs of scientific communities and projects.
-The concept of extensions within the SKG-IF framework is designed to cater to shared interests and requirements that the existing standard entities and properties may not fully meet.
+The concept of extensions within the SKG-IF is designed to cater to shared interests and requirements that the existing standard entities and properties may not fully meet.
 
 By allowing for the development of extensions that enrich the core model entities of the SKG-IF, the framework can accommodate specialised use cases, specific research needs, and emerging data requirements without compromising the integrity and structure of the core framework. 
-<!-- The justification for incorporating extensions lies in ensuring that the SKG-IF remains flexible, adaptable, and responsive to the changing landscape of scientific knowledge representation.  -->
 Extensions offer a way to further develop the framework's capabilities without disrupting existing entities, maintaining compatibility, coherence, and interoperability across diverse datasets and knowledge graphs.
-
-<!-- Furthermore, by mandating online documentation and requiring a case statement for each extension, the framework enhances transparency, visibility, and accountability. 
-This approach not only fosters collaboration and knowledge sharing but also encourages innovation and continuous improvement in how scientific knowledge is modelled, shared, and utilised. -->
-
-<!-- In summary, introducing extensions to the SKG-IF framework is a strategic decision to promote inclusivity, community-driven development, and the seamless integration of specialised knowledge representations within a standardised interoperability framework. 
-This approach ensures that the SKG-IF remains relevant, robust, and responsive to the evolving needs of scientific research and data management practices. -->
-
-<!-- An extension of the SKG-IF is motivated by the need to address specific requirements, interests, or challenges encountered within a particular scientific community.
-The primary motivations for developing an SKG-IF extension include:
-
-- **Tailored Solutions:** SKG-IF extensions allow for the customisation and tailoring of the SKG-IF to meet the unique needs and use cases of a specific scientific community. By incorporating domain-specific entities, properties, or relationships, the extension can enhance the relevance and applicability of the framework within that community.
-- **Improved Interoperability:** SKG-IF extensions help foster better interoperability among scientific community members by providing a standardised approach to representing and sharing domain-specific knowledge. This promotes consistency in data modelling and facilitates data exchange and integration within the community.
-- **Efficiency and Productivity:** By defining domain-specific entities and properties through an SKG-IF extension, researchers and practitioners within the community can streamline data management processes, improve data discovery, and enhance the overall productivity of knowledge creation and dissemination activities.
-- **Knowledge Sharing and Collaboration:** SKG-IF extensions encourage knowledge sharing and collaboration among community members by establishing a common framework for representing and exchanging scientific data and information. This shared understanding facilitates communication and collaboration across diverse research projects and initiatives.
-- **Empowerment, Accountability, and Ownership:** Developing an SKG-IF extension empowers scientific community members to actively contribute to the evolution and enhancement of the SKG-IF framework. It fosters a sense of ownership and investment in the standardisation efforts, encouraging community engagement and participation in shaping the future of scientific knowledge representation. -->
 
 
 ## Participation guidelines
