@@ -23,12 +23,11 @@ These are the engagement rules that proponents of a new SKG-IF extension should 
 
 ## Scope of an extension
 An SKG-IF extension can cover three distinct aspects about the data model:
-- **Extension-specific entities:** brand-new entities that reflect semantics and structure different from the core entities, i.e. no core entity can be seen as a super-entity of community entities;
-- **Core entity extensions:** properties that extend the set of properties of core entities to address the needs of the specific case statement;
-- **Extension-specific relationships:** relationships that link entities (either core or extension-specific) reflecting the semantics of the case statement.
+- **Core entity extensions:** new properties and relation that extend the set of propertiesand relations of core entities to address the needs of the specific case statement;
+- **Brand-new additions:** brand-new entities that reflect semantics and structure different from the core entities, i.e., no core entity can be seen as a super-entity of community entities.
 
 Furthermore, an extension can provide **additional specifications for the APIs**, more specifically:
-- Define a list and the relative behaviour of **additional HTTP parameters** to customise the behaviour of the [core API resolver methods](https://skg-if.github.io/api/) defined by the SKG-IF;
+- Define a list and the relative behaviour of **additional HTTP parameters** to customise the behaviour of the [core API resolver methods]({% link api/index.md}) defined by the SKG-IF;
 - Define **brand-new, additional API methods** with advanced functionalities and custom behaviours.
 
 
@@ -48,7 +47,7 @@ Once the extension is accepted, a new repository will be created, and proponents
 ## Documenting an extension
 Comprehensive online documentation for extensions is essential, stating the targeted SKG-IF version(s), the entities they enrich, any new entities introduced, and a detailed description of properties.
 This documentation ensures clarity, transparency, and consistency in the development and implementation of extensions.
-Once a new extension reaches the expected level of maturity, it will be listed in the section ["Endorsed extensions”](https://skg-if.github.io/extensions/#list-of-supported-extensions) down below.
+Once a new extension reaches the expected level of maturity, it will be listed at the bottom of this page and in the navigation bar on the left-side of the page.
 
 **Important:** in order to prevent clashing with other extensions, an extension should specify an agreed namespace to be used as a prefix for introduced entities, properties, relations and API specifications (i.e., methods and HTTP parameters).
 
@@ -57,7 +56,3 @@ Once a new extension reaches the expected level of maturity, it will be listed i
 The lifecycle (i.e., development and maintenance) of an SKG-IF extension falls outside the scope of the RDA WG and the discussion around the core model. 
 Therefore, delivering an extension can be fast-paced as long as it meets the expected degree of clearness and compliance. 
 Once an extension is mature enough and has been adopted in the intended contexts, part of the covered aspects can be considered and cherry-picked by the WG for inclusion in the SKG-IF core model.
-
-
-## List of endorsed extensions
-TBA
