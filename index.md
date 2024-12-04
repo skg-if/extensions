@@ -27,7 +27,7 @@ An SKG-IF extension can cover three distinct aspects about the data model:
 - **Brand-new additions:** brand-new entities that reflect semantics and structure different from the core entities, i.e., no core entity can be seen as a super-entity of community entities.
 
 Furthermore, an extension can provide **additional specifications for the APIs**, more specifically:
-- Define a list and the relative behaviour of **additional HTTP parameters** to customise the behaviour of the [core API resolver methods]({% link api/index.md}) defined by the SKG-IF;
+- Define a list and the relative behaviour of **additional HTTP parameters** to customise the behaviour of the [core API resolver methods]({% link api/index.md %}) defined by the SKG-IF;
 - Define **brand-new, additional API methods** with advanced functionalities and custom behaviours.
 
 
