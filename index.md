@@ -6,7 +6,8 @@ nav_order: 5
 
 # SKG-IF extensions
 
-**<u>In a nutshell</u>: Extensions primarily act as plug-ins for extra properties that enhance the core entities defined by the SKG-IF, for extra entities capturing community concepts, and for relationships between properties.**
+{: .highlight }
+**In a nutshell**: Extensions primarily act as plug-ins for extra properties that enhance the core entities defined by the SKG-IF, for extra entities capturing community concepts, and for relationships between properties.
 
 Introducing extensions to the SKG-IF serves as a strategic step towards addressing the evolving and diverse needs of scientific communities and projects.
 The concept of extensions within the SKG-IF is designed to cater to shared interests and requirements that the existing standard entities and properties may not fully meet.
@@ -49,7 +50,8 @@ Comprehensive online documentation for extensions is essential, stating the targ
 This documentation ensures clarity, transparency, and consistency in the development and implementation of extensions.
 Once a new extension reaches the expected level of maturity, it will be listed at the bottom of this page and in the navigation bar on the left-side of the page.
 
-**Important:** in order to prevent clashing with other extensions, an extension should specify an agreed namespace to be used as a prefix for introduced entities, properties, relations and API specifications (i.e., methods and HTTP parameters).
+{: .important }
+In order to prevent clashing with other extensions, an extension should specify an agreed namespace to be used as a prefix for introduced entities, properties, relations and API specifications (i.e., methods and HTTP parameters).
 
 
 ## Extension lifecycle
