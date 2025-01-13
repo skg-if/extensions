@@ -1,5 +1,5 @@
 ---
-title: SKG-IF Extensions
+title: Extensions
 layout: default
 nav_order: 6
 ---
