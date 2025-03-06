@@ -42,13 +42,17 @@ Please note that:
 - Requests will be evaluated by the members of the RDA WG on the SKG-IF. 
 - It is possible for a new proposal to have a few iterative responses before being given a final response on whether or not the proposed ontology is endorsed. 
 
-Once the extension is accepted, a new repository will be created, and proponents should work on that codebase following the suggested folder structure.
+Once the extension is accepted, a new repository will be created following [this Git repository template](https://github.com/skg-if/extension-template), and proponents should work on that codebase following the suggested folder structure.
 
 
 ## Documenting an extension
 Comprehensive online documentation for extensions is essential, stating the targeted SKG-IF version(s), the entities they enrich, any new entities introduced, and a detailed description of properties.
 This documentation ensures clarity, transparency, and consistency in the development and implementation of extensions.
-Once a new extension reaches the expected level of maturity, it will be listed at the bottom of this page and in the navigation bar on the left-side of the page.
+
+Working on the assigned repository ensures seamless and streamlined integration of the new documentation pages and will be rendered online in a dedicated section, which, for the starter, is hidden on the left-hand side navigation menu of the SKG-IF website.
+To trigger a recompile/redeploy of the pages, just issue a `git push` of your local repository.
+The documentation will be rendedred in something like [this](https://skg-if.github.io/extension-template).
+Once a new extension reaches the expected level of maturity, it will be listed on the left-side of the page as an endorsed extension.
 
 {: .important }
 In order to prevent clashing with other extensions, an extension should specify an agreed namespace to be used as a prefix for introduced entities, properties, relations and API specifications (i.e., methods and HTTP parameters).
