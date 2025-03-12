@@ -24,7 +24,7 @@ These are the engagement rules that proponents of a new SKG-IF extension should 
 
 ## Scope of an extension
 An SKG-IF extension can cover two distinct aspects about the data model:
-- **Core entity extensions:** new properties and relations that extend the set of propertiesand relations of core entities to address the needs of the specific case statement;
+- **Core entity extensions:** new properties and relations that extend the set of properties and relations of core entities to address the needs of the specific case statement;
 - **Brand-new additions:** brand-new entities that reflect semantics and structure different from the core entities, i.e., no core entity can be seen as a super-entity of community entities.
 
 Furthermore, an extension can provide **additional specifications for the APIs**, more specifically:
@@ -51,7 +51,7 @@ This documentation ensures clarity, transparency, and consistency in the develop
 
 Working on the assigned repository ensures seamless and streamlined integration of the new documentation pages and will be rendered online in a dedicated section, which, for the starter, is hidden on the left-hand side navigation menu of the SKG-IF website.
 To trigger a recompile/redeploy of the pages, just issue a `git push` of your local repository.
-The documentation will be rendedred in something like [this](https://skg-if.github.io/extension-template).
+The documentation will be rendered into a dedicated "minisite"; something like [this](https://skg-if.github.io/extension-template).
 Once a new extension reaches the expected level of maturity, it will be listed on the left-side of the page as an endorsed extension.
 
 {: .important }
