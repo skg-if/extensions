@@ -54,9 +54,6 @@ To trigger a recompile/redeploy of the pages, just issue a `git push` of your lo
 The documentation will be rendered into a dedicated "minisite"; something like [this](https://skg-if.github.io/extension-template).
 Once a new extension reaches the expected level of maturity, it will be listed on the left-side of the page as an endorsed extension.
 
-{: .important }
-In order to prevent clashing with other extensions, an extension should specify an agreed namespace to be used as a prefix for introduced entities, properties, relations and API specifications (i.e., methods and HTTP parameters).
-
 
 ## Extension lifecycle
 The lifecycle (i.e., development and maintenance) of an SKG-IF extension falls outside the scope of the RDA WG and the discussion around the core model. 
