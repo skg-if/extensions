@@ -7,7 +7,7 @@ nav_order: 6
 # Extensions
 
 {: .highlight }
-**In a nutshell**: Extensions primarily act as plug-ins for extra properties that enhance the core entities defined by the SKG-IF, and for extra entities and relations between entities capturing community concepts.
+**In a nutshell**: Extensions primarily act as plug-ins for extra properties that enhance the core entities defined by the SKG-IF, and for extra entities and relations between entities capturing community-driven concepts and needs.
 
 Introducing extensions to the SKG-IF serves as a strategic step towards addressing the evolving and diverse needs of scientific communities and projects.
 The concept of extensions within the SKG-IF is designed to cater to shared interests and requirements that the existing standard entities and properties may not fully meet.
