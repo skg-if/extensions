@@ -42,17 +42,19 @@ Please note that:
 - Requests will be evaluated by the members of the RDA WG on the SKG-IF. 
 - It is possible for a new proposal to have a few iterative responses before being given a final response on whether or not the proposed ontology is endorsed. 
 
-Once the extension is accepted, a new repository will be created following [this Git repository template](https://github.com/skg-if/extension-template), and proponents should work on that codebase following the suggested folder structure.
+Once the extension is accepted, a new repository will be created following [this Git repository template](https://github.com/skg-if/extension-template), and proponents should work on the provided codebase following the suggested folder structure and guidelines (see below).
 
 
 ## Documenting an extension
 Comprehensive online documentation for extensions is essential, stating the targeted SKG-IF version(s), the entities they enrich, any new entities introduced, and a detailed description of properties.
 This documentation ensures clarity, transparency, and consistency in the development and implementation of extensions.
 
-Working on the assigned repository ensures seamless and streamlined integration of the new documentation pages and will be rendered online in a dedicated section, which, for the starter, is hidden on the left-hand side navigation menu of the SKG-IF website.
-To trigger a recompile/redeploy of the pages, just issue a `git push` of your local repository.
-The documentation will be rendered into a dedicated "minisite"; something like [this](https://skg-if.github.io/extension-template).
-Once a new extension reaches the expected level of maturity, it will be listed on the left-side of the page as an endorsed extension.
+Working on the assigned repository ensures seamless and streamlined integration of the new documentation pages with the main SKG-IF website.
+To trigger a recompile/redeploy of the pages, just issue a `git push` of your extension repository; after a short while, you will see the GitHub action firing [here](https://github.com/skg-if/skg-if.github.io/actions). Clicking on the job, you can monitor it status, steps and errors in the case the job has failed.
+
+Provided that Jekyll could successfully compile your extension repository, the documentation will be deployed into a **dedicated "minisite"**; something like [**this**](https://skg-if.github.io/extension-template).
+
+For the starter, this is hidden and will not show in the left-hand side navigation menu of the SKG-IF website; however, once a new extension reaches the expected level of maturity, it will be listed on the left-side of the page as an endorsed extension.
 
 
 ## Extension lifecycle
