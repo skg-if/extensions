@@ -24,8 +24,8 @@ These are the engagement rules that proponents of a new SKG-IF extension should 
 
 ## Scope of an extension
 An SKG-IF extension can cover two distinct aspects about the data model:
-- **Core entity extensions:** new properties and relations that extend the set of properties and relations of core entities to address the needs of the specific case statement;
-- **Brand-new additions:** brand-new entities that reflect semantics and structure different from the core entities, i.e., no core entity can be seen as a super-entity of community entities.
+- **Core entity extensions:** add new properties and relations that extend the set of properties and relations of core entities to address the needs of the specific case statement;
+- **Brand-new additions:** introduce brand-new entities that reflect semantics and structure different from the core entities, i.e., no core entity can be seen as a super-entity of community entities.
 
 Furthermore, an extension can provide **additional specifications for the APIs**, more specifically:
 - Define a list and the relative behaviour of **additional HTTP parameters** to customise the behaviour of the [core API resolver methods]({% link api/index.md %}) defined by the SKG-IF;
