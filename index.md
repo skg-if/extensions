@@ -32,7 +32,7 @@ Furthermore, an extension can provide **additional specifications for the APIs**
 - Define **brand-new, additional API methods** with advanced functionalities and custom behaviours.
 
 
-## EXtension lifecycle
+## Extension lifecycle
 The lifecycle (i.e., development and maintenance) of an SKG-IF extension falls outside the scope of the RDA WG and the discussion around the core model. 
 Therefore, delivering an extension can be fast-paced as long as it meets the expected degree of clearness and compliance. 
 
