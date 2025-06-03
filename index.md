@@ -47,7 +47,7 @@ Please note that:
 - Requests will be evaluated by the members of the RDA WG on the SKG-IF. 
 - It is possible for a new proposal to have a few iterative responses before being given a final response on whether or not the proposed ontology is endorsed. 
 
-Once the extension is accepted, a new repository will be created following [this Git repository template](https://github.com/skg-if/extension-template), and proponents should work on the provided codebase following the suggested folder structure and guidelines (see below).
+Once the extension is accepted, a new repository will be created following [this Git repository template](https://github.com/skg-if/ext-tmpl), and proponents should work on the provided codebase following the suggested folder structure and guidelines (see below).
 
 
 ### Implementing an extension
@@ -57,7 +57,7 @@ This documentation ensures clarity, transparency, and consistency in the develop
 Working on the assigned repository ensures seamless and streamlined integration of the new documentation pages with the main SKG-IF website.
 To trigger a recompile/redeploy of the pages, just issue a `git push` of your extension repository; after a short while, you will see the GitHub action firing [here](https://github.com/skg-if/skg-if.github.io/actions). Clicking on the job, you can monitor it status, steps and errors in the case the job has failed.
 
-Provided that Jekyll could successfully compile your extension repository, the documentation will be deployed into a **dedicated "minisite"**; something like [**this**](https://skg-if.github.io/extension-template).
+Provided that Jekyll could successfully compile your extension repository, the documentation will be deployed into a **dedicated "minisite"**; something like [**this**](https://skg-if.github.io/ext-tmpl).
 
 For the starter, this is hidden and will not show in the left-hand side navigation menu of the SKG-IF website; however, once a new extension reaches the expected level of maturity, it will be listed on the left-side of the page as an endorsed extension.
 
