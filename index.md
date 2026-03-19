@@ -16,7 +16,7 @@ By allowing for the development of extensions that enrich the core model entitie
 Extensions offer a way to further develop the framework's capabilities without disrupting existing entities, maintaining compatibility, coherence, and interoperability across diverse datasets and knowledge graphs.
 
 
-## Participation guidelines
+## Participation guidelines 
 These are the engagement rules that proponents of a new SKG-IF extension should follow in order to be eligible:
 - **Shared Interest/Need:** Extensions should address a collective interest or requirement identified within projects, communities, or domains rather than catering to individual or isolated needs. This principle ensures that extensions serve a broader purpose and contribute to the overall advancement of scientific knowledge representation.
 - **Non-Interference:** Extensions should not interfere with or disrupt the entities and APIs already defined within the SKG-IF or other endorsed extensions. They should not serve as shortcuts for sharing information that should be placed elsewhere within the framework. By adhering to this principle, the integrity and coherence of the SKG-IF are preserved.
